@@ -1,0 +1,9 @@
+
+*.lock
+**/Pods/**/*
+**/*.xcodeproj/*.xcworkspace
+**/*.xcodeproj/xcuserdata/*
+**/*.xcodeproj/xcshareddata/*
+**/*.xcworkspace/xcuserdata/*
+**/*.xcworkspace/xcshareddata
+**/.DS_Store
